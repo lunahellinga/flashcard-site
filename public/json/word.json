@@ -1,0 +1,146 @@
+[
+  {
+    "front": "Voeg paginanummers toe",
+    "back": "Invoegen -> Koptekst en voettekst -> Paginanummer"
+  },
+  {
+    "front": "Wisselende paginanummers",
+    "back": "Na invoegen de voettekst bewerken (Dubbelklik) -> Opties -> Even en oneven pagina's verschillend"
+  },
+  {
+    "front": "Maak de eerste pagina anders",
+    "back": "Na invoegen de voettekst bewerken (Dubbelklik) -> Opties -> Eerste pagina afwijkend"
+  },
+  {
+    "front": "Voeg voettekst toe",
+    "back": "Invoegen -> Koptekst en voettekst -> Voettekst OF Dubbelklik onderaan/bovenaan pagina -> Koptekst en voettekst -> Voettekst"
+  },
+  {
+    "front": "Voeg koptekst toe",
+    "back": "Invoegen -> Koptekst en voettekst -> Koptekst OF Dubbelklik onderaan/bovenaan pagina -> Koptekst en voettekst -> Koptekst"
+  },
+  {
+    "front": "Maak de tekst cursief",
+    "back": "Selecteer tekst -> Start -> Lettertype -> Cursief (I)"
+  },
+  {
+    "front": "Maak de tekst vetgedrukt",
+    "back": "Selecteer tekst -> Start -> Lettertype -> Vet (B)"
+  },
+  {
+    "front": "Zet een streep onder de tekst",
+    "back": "Selecteer tekst -> Start -> Lettertype -> Onderstrepen (U)"
+  },
+  {
+    "front": "Geef de tekst het teksteffect ...",
+    "back": "Selecteer tekst -> Start -> Lettertype -> Teksteffecten"
+  },
+  {
+    "front": "Pas de stijl ... aan",
+    "back": "Start -> Stijlen -> Rechter muisknop op de stijl -> Wijzigen"
+  },
+  {
+    "front": "Geef de ... de stijl ...",
+    "back": "Selecteer tekst -> Start -> Stijlen -> Klik op stijl"
+  },
+  {
+    "front": "Paragraaf",
+    "back": "Een groep bij elkaar horende alineas"
+  },
+  {
+    "front": "Pas de instellingen van de alinea aan",
+    "back": "Klik in de alinea -> Start -> Alinea -> Kies optie daar of druk op het meer opties pijltje OF Rechter muisknop op alinea -> Alinea "
+  },
+  {
+    "front": "Geef de stijl een witruimte van ...",
+    "back": "Ga naar stijl wijzigen -> Opmaak -> Alinea -> Afstand -> Voor/Na"
+  },
+  {
+    "front": "Voeg een inhoudsopgave toe",
+    "back": "Klik waar je de Inhoudsopgave wilt zetten -> Verwijzingen -> Inhoudsopgave -> Kies een inhoudsopgave"
+  },
+  {
+    "front": "Voeg een hard pagina-einde toe",
+    "back": "Invoegen -> Pagina's -> Pagina-einde OF Indeling -> Pagina-instellingen -> Eindemarkeringen -> Pagina-einden -> Pagina"
+  },
+  {
+    "front": "Voeg een sectie-einde toe",
+    "back": "Indeling -> Pagina-instellingen -> Eindemarkeringen -> Sectie-einden -> Volgende pagina"
+  },
+  {
+    "front": "Centreer de tekst horizontaal",
+    "back": "Klik in alinea -> Start -> Alinea -> Centreren"
+  },
+  {
+    "front": "Centreer de tekst verticaal",
+    "back": "Indeling -> Pagina-instelling -> Meer opties pijltje -> Indeling -> Pagina -> Verticaal Uitlijnen"
+  },
+  {
+    "front": "Zorg ervoor dat de tekst rechts is uitgelijnd",
+    "back": "Klin in de alinea -> Start -> Alinea -> Rechts uitlijnen"
+  },
+  {
+    "front": "Voeg smart art toe ... (Kan soms als 'lijst' in de opdracht staan)",
+    "back": "Invoegen -> Illustraties -> SmartArt"
+  },
+  {
+    "front": "Geef elk vak een andere kleur",
+    "back": "Selecteer de SmartArt -> SmartArt-ontwerp -> SmartArt-stijlen -> Kleuren wijzigen -> Kies iets met verschillende kleuren OF Selecteer een vak -> Opmaak -> Vormstijlen -> Vormopvulling, herhaal voor alle vormen"
+  },
+  {
+    "front": "Voeg een vorm toe",
+    "back": "Invoegen -> Illustraties -> Vormen"
+  },
+  {
+    "front": "Zet de volgende tekst in de vorm",
+    "back": "Klik op de vorm en begin met typen"
+  },
+  {
+    "front": "Vorm kleiner of groter maken",
+    "back": "Selecteer de vorm -> Sleep een hoekpunt (wit bolletje)"
+  },
+  {
+    "front": "Zet de linker marge op ... cm",
+    "back": "Indeling -> Pagina-instelling -> Marges -> Aangepaste marges"
+  },
+  {
+    "front": "Voeg een tabel van ... bij ... toe",
+    "back": "Invoegen -> Tabel -> Selecteer het gewenste aantal rijen en kolommen"
+  },
+  {
+    "front": "Voeg een lijst toe",
+    "back": "Start -> Alinea-> Opsommingstekens of Nummering"
+  },
+  {
+    "front": "Voeg het auteur veld toe",
+    "back": "Invoegen -> Tekst -> Snelonderdelen -> Veld -> Author (veldnamen zijn engels)"
+  },
+  {
+    "front": "Voeg de afbeelding ... toe",
+    "back": "Invoegen -> Illustraties -> Afbeeldingen -> Dit apparaat"
+  },
+  {
+    "front": "Zet de paginas op liggende afdrukstand",
+    "back": "Indeling -> Pagina-instelling -> Aafdrukstand -> Liggend"
+  },
+  {
+    "front": "Laat de tekst 1 cm inspringen",
+    "back": "Alinea instellingen (Rechter muisknop -> Alinea) -> Inspringen OF Indeling -> Alinea -> Inspringen"
+  },
+  {
+    "front": "Laat eerste regel van de tekst 1 cm inspringen",
+    "back": "Alinea instellingen (Rechter muisknop -> Alinea) -> Inspringen -> Speciaal"
+  },
+  {
+    "front": "Voeg het adressenbestand samen",
+    "back": "Verzendlijsten -> Afdruk samenvoegen starten -> Brieven DAARNA Adressen selecteren -> Bestaande lijst gebruiken -> Bestand kiezen -> Het blad selecteren (NIET Titelblad)"
+  },
+  {
+    "front": "Zet de samengevoegde velden ... tussen .. en ...",
+    "back": "Klik waar je het wilt -> Verzendlijsten -> Samenvoegvelden invoegen -> Veld kiezen LET OP Dit kan pas na het samenvoegen! Gebruik NIET de opties Adresblok of Begroetingsregel"
+  },
+  {
+    "front": "Zorg voor het samenvoegen van ...",
+    "back": "Samenvoegen en velden er in zetten -> Voltooien en Samenvoegen -> Afzonderlijke documenten bewerken -> OK -> In het geopende document de laatste pagina's waar geen waardes in zijn gevuld verwijderen"
+  }
+]

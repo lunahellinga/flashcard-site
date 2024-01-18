@@ -1,0 +1,41 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         Int          @id @default(autoincrement())
+  Collection Collection[]
+}
+
+model Collection {
+  id        Int         @id @default(autoincrement())
+  owner     User        @relation(fields: [ownerId], references: [id])
+  ownerId   Int
+  Flashcard Flashcard[]
+  Category  Category[]
+}
+
+model Category {
+  id           Int         @id @default(autoincrement())
+  name         String
+  Flashcard    Flashcard[]
+  collection   Collection  @relation(fields: [collectionId], references: [id])
+  collectionId Int
+}
+
+model Flashcard {
+  id           Int        @id @default(autoincrement())
+  category     Category   @relation(fields: [categoryId], references: [id])
+  categoryId   Int
+  answer       String
+  collection   Collection @relation(fields: [collectionId], references: [id])
+  collectionId Int
+}
