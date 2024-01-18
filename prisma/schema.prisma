@@ -6,36 +6,36 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
 model User {
-  id         Int          @id @default(autoincrement())
-  Collection Collection[]
+  id          Int          @id @default(autoincrement())
+  name        String       @unique
+  collections Collection[]
 }
 
 model Collection {
-  id        Int         @id @default(autoincrement())
-  owner     User        @relation(fields: [ownerId], references: [id])
-  ownerId   Int
-  Flashcard Flashcard[]
-  Category  Category[]
+  id         Int        @id @default(autoincrement())
+  owner      User       @relation(fields: [ownerId], references: [id])
+  ownerId    Int
+  name       String
+  categories Category[]
 }
 
 model Category {
   id           Int         @id @default(autoincrement())
   name         String
-  Flashcard    Flashcard[]
   collection   Collection  @relation(fields: [collectionId], references: [id])
   collectionId Int
+  flashcards   Flashcard[]
 }
 
 model Flashcard {
-  id           Int        @id @default(autoincrement())
-  category     Category   @relation(fields: [categoryId], references: [id])
-  categoryId   Int
-  answer       String
-  collection   Collection @relation(fields: [collectionId], references: [id])
-  collectionId Int
+  id         Int      @id @default(autoincrement())
+  question   String
+  answer     String
+  category   Category @relation(fields: [categoryId], references: [id])
+  categoryId Int
 }
