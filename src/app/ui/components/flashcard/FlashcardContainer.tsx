@@ -38,7 +38,7 @@ export const FlashcardContainer = ({cards, categories}: FlashcardContainerProps)
     return (
         <div>
             <div className={"w-screen h-fit p-2 flex flex-wrap justify-center items-center bg-gray-300"}>
-                <div className={"w-screen flex m-2 mt-4 justify-center items-center "}>
+                <div className={"w-screen flex flex-wrap m-2 mt-4 justify-center items-center "}>
                     <FormControl>
                         <InputLabel id="category-label">Categorie</InputLabel>
                         <Select
@@ -63,7 +63,7 @@ export const FlashcardContainer = ({cards, categories}: FlashcardContainerProps)
                                  max={cards.length}
                     />
 
-                    <FormControlLabel control={<Checkbox defaultChecked={randomized}
+                    <FormControlLabel control={<Checkbox checked={randomized}
                                                          onChange={event => setRandomized(event.target.checked)}/>}
                                       label="Willekeurige volgorde"
                                       className={"text-black me-2"}/>
