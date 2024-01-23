@@ -1,6 +1,7 @@
 import type {Metadata} from 'next'
 import {firaCode, openDyslexic} from './ui/fonts'
 import './globals.css'
+import {AppRouterCacheProvider} from "@mui/material-nextjs/v13-appRouter";
 
 export const metadata: Metadata = {
     title: 'Flashcards DV',
@@ -14,7 +15,8 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en">
-        <body className={`${openDyslexic.className} antialiased`}>{children}</body>
+        <body className={`${openDyslexic.className} antialiased`}>
+        <AppRouterCacheProvider>{children}</AppRouterCacheProvider></body>
         </html>
     )
 }

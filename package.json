@@ -7,12 +7,20 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "prisma generate"
+    "postinstall": "prisma generate",
+    "fresh": "prisma migrate reset"
   },
   "prisma": {
     "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
   },
   "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.3",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/base": "^5.0.0-beta.33",
+    "@mui/material": "^5.15.6",
+    "@mui/material-nextjs": "^5.15.6",
     "@prisma/client": "^5.8.1",
     "next": "14.0.4",
     "react": "^18",

@@ -1,146 +1,187 @@
 [
   {
+    "answer": "Open het bestand -> Klik links-onder op het werkblad",
     "question": "Open het werkblad ...",
-    "answer": "Open het bestand -> Klik links-onder op het werkblad"
+    "url": ""
   },
   {
+    "answer": "Klik links-onder op het + symbool -> Rechter muisknop op het nieuwe blad -> Naam wijzigen",
     "question": "Voeg werkblad ... toe",
-    "answer": "Klik links-onder op het + symbool -> Rechter muisknop op het nieuwe blad -> Naam wijzigen"
+    "url": ""
   },
   {
+    "answer": "Rechter muisknop op het blad -> Verwijderen",
     "question": "Verwijder werkblad ...",
-    "answer": "Rechter muisknop op het blad -> Verwijderen"
+    "url": ""
   },
   {
+    "answer": "Klik op het werkblad -> Sleep het naar de correcte plek",
     "question": "Zet werkblad ... rechts van werkblad ...",
-    "answer": "Klik op het werkblad -> Sleep het naar de correcte plek"
+    "url": ""
   },
   {
+    "answer": "Selecteer de kolom -> Start -> Cellen -> Opmaak -> Kolombreedte OF Rechter muisknop op kolom -> Kolombreedte",
     "question": "Geef kolom ... de kolombreedte ...",
-    "answer": "Selecteer de kolom -> Start -> Cellen -> Opmaak -> Kolombreedte OF Rechter muisknop op kolom -> Kolombreedte"
+    "url": ""
   },
   {
+    "answer": "Selecteer de kolom ER NA -> Start -> Cellen -> Invoegen OF Rechter muisknop op kolom ER NA -> Invoegen",
     "question": "Voeg na kolom ... een kolom toe",
-    "answer": "Selecteer de kolom ER NA -> Start -> Cellen -> Invoegen OF Rechter muisknop op kolom ER NA -> Invoegen"
+    "url": ""
   },
   {
+    "answer": "Selecteer de kolom -> Start -> Cellen -> Verwijderen OF Rechter muisknop op kolom -> Verwijderen",
     "question": "Verwijder de kolom ...",
-    "answer": "Selecteer de kolom -> Start -> Cellen -> Verwijderen OF Rechter muisknop op kolom -> Verwijderen"
+    "url": ""
   },
   {
+    "answer": "Selecteer de rij -> Start -> Cellen -> Opmaak -> Rijhoogte OF Rechter muisknop op rij -> Rijhoogte",
     "question": "Geef rij ... de rijhoogte ...",
-    "answer": "Selecteer de rij -> Start -> Cellen -> Opmaak -> Rijhoogte OF Rechter muisknop op rij -> Rijhoogte"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cellen -> Start -> Uitlijning -> Samenvoegen en Centreren",
     "question": "Voeg de cellen ... tot ... samen",
-    "answer": "Selecteer de cellen -> Start -> Uitlijning -> Samenvoegen en Centreren"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Uitlijning -> Terugloop",
     "question": "Zorg ervoor dat de tekst in ... terugloopt",
-    "answer": "Selecteer de cel -> Uitlijning -> Terugloop"
+    "url": ""
   },
   {
+    "answer": "Selecteer de te sorteren waardes -> Start -> Bewerken -> Sorteren en filteren -> Kies de richting",
     "question": "Sorteer de waardes in kolom ...",
-    "answer": "Selecteer de te sorteren waardes -> Start -> Bewerken -> Sorteren en filteren -> Kies de richting"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cellen -> Start -> Lettertype -> Vet (B)",
     "question": "Maak de inhoud van cellen ... vetgedrukt",
-    "answer": "Selecteer de cellen -> Start -> Lettertype -> Vet (B)"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cellen -> Start -> Lettertype -> Schuin (I)",
     "question": "Maak de inhoud van cellen ... schuingedrukt",
-    "answer": "Selecteer de cellen -> Start -> Lettertype -> Schuin (I)"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cellen -> Uitlijning -> Centreren",
     "question": "Centreer de inhoud van cellen ... tot en met ...",
-    "answer": "Selecteer de cellen -> Uitlijning -> Centreren"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Uitlijning -> Midden uitlijnen",
     "question": "Centreer de inhoud van cel ... verticaal",
-    "answer": "Selecteer de cel -> Uitlijning -> Midden uitlijnen"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Uitlijning -> Rechts uitlijnen",
     "question": "Lijn de inhoud van de cel .. rechts uit",
-    "answer": "Selecteer de cel -> Uitlijning -> Rechts uitlijnen"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Start -> Getal -> Financieel",
     "question": "Geef de cel ... een financiële getalnotatie",
-    "answer": "Selecteer de cel -> Start -> Getal -> Financieel"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Start -> Getal -> Korte datumnotatie",
     "question": "Geef de cel ... een korte datum getalnotatie",
-    "answer": "Selecteer de cel -> Start -> Getal -> Korte datumnotatie"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel -> Start -> Getal -> Meer/minder decimalen OF Meer instellingen pijltje",
     "question": "Zorg ervoor dat de cel ... twee decimalen laat zien",
-    "answer": "Selecteer de cel -> Start -> Getal -> Meer/minder decimalen OF Meer instellingen pijltje"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel waar het totaal moet komen -> Typ de formule, bijv. =SOM(B2:B10)",
     "question": "Bereken het totaal van ... gebruik een formule",
-    "answer": "Selecteer de cel waar het totaal moet komen -> Typ de formule, bijv. =SOM(B2:B10)"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel waar het gemiddelde moet komen -> Typ de formule, bijv. =GEMIDDELDE(C2:C10)",
     "question": "Bereken het gemiddelde van ... gebruik een formule",
-    "answer": "Selecteer de cel waar het gemiddelde moet komen -> Typ de formule, bijv. =GEMIDDELDE(C2:C10)"
+    "url": ""
   },
   {
+    "answer": "Typ in een lege cel bijv. =A3/B3 voor het percentage. Dit moet niet met 100 vermenigvuldigd worden! Excel ziet 0,9 als 90%.",
     "question": "Bereken hoeveel procent A3 is van totaal B3",
-    "answer": "Typ in een lege cel bijv. =A3/B3 voor het percentage. Dit moet niet met 100 vermenigvuldigd worden! Excel ziet 0,9 als 90%."
+    "url": ""
   },
   {
+    "answer": "Typ de formule in een cel aan de rand (bijv. de bovenste) -> Selecteer de cel -> Klik op het groene puntje rechts onder -> Gebruik de vulgreep om het naar de andere cellen te slepen",
     "question": "Zet de berekening in cellen ... tot ...",
-    "answer": "Typ de formule in een cel aan de rand (bijv. de bovenste) -> Selecteer de cel -> Klik op het groene puntje rechts onder -> Gebruik de vulgreep om het naar de andere cellen te slepen"
+    "url": ""
   },
   {
+    "answer": "Dit betekent dat het absolute deel van de formule altijd naar een bepaalde cel, rij of kolom wijst. Bijvoorbeeld =A3/B$3 kan je slepen om voor alle cellen in de A kolom te berekenen hoeveel procent die zijn van B3. Als je die dus naar beneden sleept wordt het =A4/B$3",
     "question": "Gebruik een formule met absolute celverwijzing",
-    "answer": "Dit betekent dat het absolute deel van de formule altijd naar een bepaalde cel, rij of kolom wijst. Bijvoorbeeld =A3/B$3 kan je slepen om voor alle cellen in de A kolom te berekenen hoeveel procent die zijn van B3. Als je die dus naar beneden sleept wordt het =A4/B$3"
+    "url": ""
   },
   {
+    "answer": "Dit betekent dat het relatieve deel van de formule veranderd als je de vulgreep gebruikt. Bijvoorbeeld, =A1+B1, als je het een naar beneden sleept, wordt =A2+B2",
     "question": "Gebruik relatieve celverwijzing",
-    "answer": "Dit betekent dat het relatieve deel van de formule veranderd als je de vulgreep gebruikt. Bijvoorbeeld, =A1+B1, als je het een naar beneden sleept, wordt =A2+B2"
+    "url": ""
   },
   {
+    "answer": "Selecteer de cel(len) -> Start -> Getal -> Meer opties pijltje -> Kies percentage -> Stel aantal decimalen in",
     "question": "Geef de waardes weer als percentage met ... decimaal",
-    "answer": "Selecteer de cel(len) -> Start -> Getal -> Meer opties pijltje -> Kies percentage -> Stel aantal decimalen in"
+    "url": ""
   },
   {
+    "answer": "Selecteer de gegevens -> Invoegen -> Grafieken -> Kies de soort LET OP Als je de muis over een soort houdt krijg je de naam van die soort te zien",
     "question": "Maak van de gegevens in de cellen ... tot en met ... een ...",
-    "answer": "Selecteer de gegevens -> Invoegen -> Grafieken -> Kies de soort LET OP Als je de muis over een soort houdt krijg je de naam van die soort te zien"
+    "url": ""
   },
   {
+    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Grafiekstijlen",
     "question": "Maak een grafiek met stijl ...",
-    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Grafiekstijlen"
+    "url": ""
   },
   {
+    "answer": "Dubbelklik op het deel van de grafiek dat je een andere kleur wilt geven zodat alleen dat deel geselecteerd is -> Opmaak -> Vormopvulling",
     "question": "Maak een grafiek met verschillende kleuren",
-    "answer": "Dubbelklik op het deel van de grafiek dat je een andere kleur wilt geven zodat alleen dat deel geselecteerd is -> Opmaak -> Vormopvulling"
+    "url": ""
   },
   {
+    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Gegevens -> Rijen/kolommen omdraaien of Gegevens selecteren",
     "question": "Zet ... op de horizontale as",
-    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Gegevens -> Rijen/kolommen omdraaien of Gegevens selecteren"
+    "url": ""
   },
   {
+    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Gegevens -> Rijen/kolommen omdraaien of Gegevens selecteren",
     "question": "Zet ... op de verticale as",
-    "answer": "Selecteer de grafiek -> Grafiekontwerp -> Gegevens -> Rijen/kolommen omdraaien of Gegevens selecteren"
+    "url": ""
   },
   {
+    "answer": "Selecteer de grafiek -> Knippen (Ctrl+X of Rechter muisknop) -> Ga naar het blad waar je het wilt hebben -> Plakken",
     "question": "Zet de grafiek op zijn eigen tabblad",
-    "answer": "Selecteer de grafiek -> Knippen (Ctrl+X of Rechter muisknop) -> Ga naar het blad waar je het wilt hebben -> Plakken"
+    "url": ""
   },
   {
+    "answer": "Klik op de grafiek -> Plusje verschijnt rechts boven de grafiek -> Klik daarop en zet een vinkje bij 'Grafiektitel' -> Dubbelklik de titel -> Typ",
     "question": "Geef de grafiek de titel ...",
-    "answer": "Klik op de grafiek -> Plusje verschijnt rechts boven de grafiek -> Klik daarop en zet een vinkje bij 'Grafiektitel' -> Dubbelklik de titel -> Typ"
+    "url": ""
   },
   {
+    "answer": "Klik op de grafiek -> Plusje verschijnt rechts boven de grafiek -> Klik daarop en zet een vinkje bij 'gegevenslabels'",
     "question": "Geef de grafiek gegevenslabels",
-    "answer": "Klik op de grafiek -> Plusje verschijnt rechts boven de grafiek -> Klik daarop en zet een vinkje bij 'gegevenslabels'"
+    "url": ""
   },
   {
+    "answer": "Selecteer de gegevens -> Invoegen -> Draaitabel -> Van tabel/bereik -> Nieuw werkblad en OK -> Sleep B naar het Rijen vakje -> Sleep A naar het Waarden vakje -> Klik op 'Som van A' -> Waardeveldinstellingen -> Kies gemiddelde",
     "question": "Maak een draaitabel om de gemiddelde A per B te berekenen",
-    "answer": "Selecteer de gegevens -> Invoegen -> Draaitabel -> Van tabel/bereik -> Nieuw werkblad en OK -> Sleep B naar het Rijen vakje -> Sleep A naar het Waarden vakje -> Klik op 'Som van A' -> Waardeveldinstellingen -> Kies gemiddelde"
+    "url": ""
   },
   {
+    "answer": "Selecteer de gegevens -> Invoegen -> Draaigrafiek -> Draaigrafiek -> Nieuw werkblad en OK -> Sleep B naar het Rijen vakje -> Sleep A naar het Waarden vakje -> Klik op 'Som van A' -> Waardeveldinstellingen -> Kies gemiddelde",
     "question": "Voeg een draaigrafiek toe om de gemiddelde A per B te laten zien",
-    "answer": "Selecteer de gegevens -> Invoegen -> Draaigrafiek -> Draaigrafiek -> Nieuw werkblad en OK -> Sleep B naar het Rijen vakje -> Sleep A naar het Waarden vakje -> Klik op 'Som van A' -> Waardeveldinstellingen -> Kies gemiddelde"
+    "url": ""
+  },
+  {
+    "answer": "Selecteer de cel(len) -> Start -> Uitlijning -> Afdrukstand -> Kies de richting of de onderste optie om handmatig in te stellen",
+    "question": "Zet de tekstrichting in een cel op ... graden/in richting ...",
+    "url": ""
   }
 ]

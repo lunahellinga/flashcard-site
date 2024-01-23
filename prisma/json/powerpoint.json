@@ -1,50 +1,67 @@
 [
   {
+    "answer": "Selecteer de dia waarna je een nieuwe wilt -> Invoegen -> Nieuwe dia -> Kies het dia-type",
     "question": "Voeg na dia ... een dia toe met type ...",
-    "answer": "Selecteer de dia waarna je een nieuwe wilt -> Invoegen -> Nieuwe dia -> Kies het dia-type"
+    "url": ""
   },
   {
+    "answer": "Selecteer de dia -> Rechtsklik -> Dia verwijderen",
     "question": "Verwijder dia ...",
-    "answer": "Selecteer de dia -> Rechtsklik -> Dia verwijderen"
+    "url": ""
   },
   {
+    "answer": "Selecteer de dia -> Start -> Dia's -> Dia indeling -> Kies het gewenste type",
     "question": "Geef de dia het type ...",
-    "answer": "Selecteer de dia -> Start -> Dia's -> Dia indeling -> Kies het gewenste type"
+    "url": ""
   },
   {
+    "answer": "Selecteer de tekst -> Start -> Lettertype -> Kies het gewenste lettertype",
     "question": "Verander het lettertype van ...",
-    "answer": "Selecteer de tekst -> Start -> Lettertype -> Kies het gewenste lettertype"
+    "url": ""
   },
   {
+    "answer": "Typ de nieuwe optie in de lijst. Als je van niveau moet veranderen kan je bij Start -> Alinea -> Lijstniveau verhogen/verlagen",
     "question": "Voeg de optie ... toe",
-    "answer": "Typ de nieuwe optie in de lijst. Als je van niveau moet veranderen kan je bij Start -> Alinea -> Lijstniveau verhogen/verlagen"
+    "url": ""
   },
   {
+    "answer": "Invoegen -> SmartArt -> Kies het gewenste SmartArt-type OF Selecteer een lijst -> Rechtsklik -> Converteer naar SmartArt",
     "question": "Voeg SmartArt toe",
-    "answer": "Invoegen -> SmartArt -> Kies het gewenste SmartArt-type OF Selecteer een lijst -> Rechtsklik -> Converteer naar SmartArt"
+    "url": ""
   },
   {
+    "answer": "Selecteer het SmartArt-schema of de vorm -> Bolletjes aan de rand slepen om de grootte aan te passen",
     "question": "Maak het schema/de vorm kleiner zodat het past",
-    "answer": "Selecteer het SmartArt-schema of de vorm -> Bolletjes aan de rand slepen om de grootte aan te passen"
+    "url": ""
   },
   {
+    "answer": "Selecteer het object -> Animaties -> Kies de gewenste animatie",
     "question": "Voeg de animatie ... aan ... toe",
-    "answer": "Selecteer het object -> Animaties -> Kies de gewenste animatie"
+    "url": ""
   },
   {
+    "answer": "Selecteer het object -> Animaties -> Effectopties -> Een voor een OF Voeg de animaties een voor een toe",
     "question": "Zorg ervoor dat de animatie een voor een",
-    "answer": "Selecteer het object -> Animaties -> Effectopties -> Een voor een OF Voeg de animaties een voor een toe"
+    "url": ""
   },
   {
+    "answer": "Selecteer het object waarvan je de positie wilt veranderen -> Animaties -> Tijdsinstellingen -> Eerder/later verplaatsen",
     "question": "Pas de volgorde van animaties aan",
-    "answer": "Selecteer het object waarvan je de positie wilt veranderen -> Animaties -> Tijdsinstellingen -> Eerder/later verplaatsen"
+    "url": ""
   },
   {
+    "answer": "Selecteer het object -> Animaties -> Kies de gewenste animatie (bijvoorbeeld binnenvliegen) -> Effectopties -> Kies richting",
     "question": "Laat de animatie van linksonder binnenvliegen",
-    "answer": "Selecteer het object -> Animaties -> Kies de gewenste animatie (bijvoorbeeld binnenvliegen) -> Effectopties -> Kies richting"
+    "url": ""
   },
   {
+    "answer": "Selecteer de dia -> Overgangen -> Kies de gewenste overgangseffecten",
     "question": "Geef dia .. de overgang ...",
-    "answer": "Selecteer de dia -> Overgangen -> Kies de gewenste overgangseffecten"
+    "url": ""
+  },
+  {
+    "answer": "Ga naar de dia -> Druk onderaan op het 'Notities' knopje of sleep het notitieveld van onder de dia omhoog -> Voeg tekst toe",
+    "question": "Voeg een notitie toe aan dia ...",
+    "url": "https://support.microsoft.com/nl-nl/office/sprekersnotities-toevoegen-aan-uw-dia-s-26985155-35f5-45ba-812b-e1bd3c48928e"
   }
 ]

@@ -1,4 +1,3 @@
-// 'use client'
 import {FlashcardHeader} from "@/app/ui/components/flashcard/FlashcardHeader";
 import {FlashcardFront} from "@/app/ui/components/flashcard/FlashcardFront";
 import {FlashcardBack} from "@/app/ui/components/flashcard/FlashcardBack";
