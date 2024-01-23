@@ -28,11 +28,21 @@ export const FlashcardContainer = ({cards, categories}: FlashcardContainerProps)
     };
 
     const applyFilter = () => {
-        setFilteredCards(cards
-            .filter(c => c.category === category || category === allCategoriesOption)
-            .toSorted(() => 0.5 - Math.random()).slice(0, count)
-            .toSorted((c) => randomized ? 0.5 - Math.random() : c.id)
-        )
+        const cardSegment = shuffle(cards
+            .filter(c => c.category === category || category === allCategoriesOption)).slice(0,count);
+        if (randomized) {
+            setFilteredCards(shuffle(cardSegment))
+        } else {
+            setFilteredCards(cardSegment.sort((c1, c2) => c1.id - c2.id))
+        }
+    }
+
+    const shuffle = (array: any[]) => {
+        for (let i = array.length - 1; i > 0; i--) {
+            let j = Math.floor(Math.random() * (i + 1)); // random index from 0 to i
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array
     }
 
     return (
